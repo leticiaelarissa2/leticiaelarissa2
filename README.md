@@ -12,4 +12,4 @@ Contatos:
 
 <a href="https://instagram.com/leticia.ribas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-img src="https://cdn.jsdelivr.net/gh/devicon/icons/java/java-original.svg" width="40" height="40"/><img
+<img src="https://cdn.jsdelivr.net/gh/devicon/icons/java/java-original.svg" width="40" height="40"/>
